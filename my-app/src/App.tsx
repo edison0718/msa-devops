@@ -7,7 +7,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>MSA 2020 DevOps</p>
+        <p>Hello World !!!</p>
+        <p>MSA 2020 DevOps !!!</p>
         <a
           className="App-link"
           href="https://aka.ms/nzmsawebsite"
